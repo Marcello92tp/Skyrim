@@ -1,5 +1,5 @@
 # Skyrim
-depository di prova
+#depository di prova
 #18:24 questa è una modifica apportata a readme come prova:
 #ho preso la depository su github creata da me con all interno niente 
 #praticmanete
@@ -13,3 +13,5 @@ depository di prova
 
     </body>
 </html>
+let a = 1;
+let b = 2;
